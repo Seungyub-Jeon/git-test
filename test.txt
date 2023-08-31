@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is my anoth commit!
+=======
+This is my again st commit!
+>>>>>>> html_template
 
 And hear we go With commit #2!
